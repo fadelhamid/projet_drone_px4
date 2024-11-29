@@ -7,3 +7,6 @@
 [submodule "PX4-ROS2-Gazebo-YOLOv8"]
 	path = PX4-ROS2-Gazebo-YOLOv8
 	url = https://github.com/PX4/PX4-ROS2-Gazebo-YOLOv8.git
+[submodule "ws_offboard_control/src/px4_msgs"]
+    path = ws_offboard_control/src/px4_msgs
+    url = https://github.com/ton-utilisateur/ton-depot.git  # Remplace par l'URL correcte
